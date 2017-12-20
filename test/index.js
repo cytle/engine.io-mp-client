@@ -9,6 +9,8 @@ require('./engine.io-client');
 require('./socket');
 require('./transport');
 require('./connection');
+require('./transports');
+require('./xmlhttprequest');
 
 if (global.ArrayBuffer) {
   require('./arraybuffer');
