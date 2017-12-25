@@ -6951,9 +6951,9 @@ ws@~3.3.1:
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
 
-wxapp-websocket@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/wxapp-websocket/-/wxapp-websocket-1.0.2.tgz#1ff1e7ed563e010a88296068d1f407a83ae4c3a8"
+wxapp-websocket@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/wxapp-websocket/-/wxapp-websocket-1.0.3.tgz#98962d16b3e47b269b461352bfc21359d013df61"
   dependencies:
     debug "^3.1.0"
 
