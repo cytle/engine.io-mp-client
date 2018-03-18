@@ -32,7 +32,7 @@
     "indexof": "0.0.1",
     "parseqs": "0.0.5",
     "parseuri": "0.0.5",
-    "wxapp-websocket": "^1.1.8",
+    "wxapp-websocket": "^1.1.9",
     "yeast": "0.1.2"
   },
   "devDependencies": {
